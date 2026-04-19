@@ -3,8 +3,8 @@
 .home {
   font-family: 'Outfit', sans-serif;
   min-height: 100vh;
-  /* background: #f5f2ee; */
-  background: #f3b768;
+  background: #f5f2ee;
+  /* background: #f3b768; */
   position: relative;
   overflow: hidden;
   display: flex;
